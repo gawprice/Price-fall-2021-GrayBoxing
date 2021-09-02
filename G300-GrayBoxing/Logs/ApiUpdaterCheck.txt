@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 9/2/2021 3:01:12 PM : Starting /Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 172.029ms
+moved types parse time: 69ms
+candidates parse time : 2ms
+C# parse time         : 338ms
+candidates check time : 46ms
+console write time    : 0ms
+
