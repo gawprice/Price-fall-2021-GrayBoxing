@@ -58,5 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-[G300-GrayBoxing]/Library/
-[G300-GrayBoxing]/Temp/
+G300-GrayBoxing/Library/
+G300-GrayBoxing/Temp/
